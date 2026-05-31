@@ -1,5 +1,5 @@
-# Hi 👋, I'm Seemal Tausif
-I'm a Master's student in Computer Science at the University of Waterloo, focusing on systems security, AI safety, and software engineering. My research spans two labs — the Cryptography, Security, and Privacy (CrySP) Lab and the Software Analytics Group (SWAG) Lab — where I build static analysis pipelines, LLM-augmented security tools, and automated benchmarking infrastructure.
+# Hi, I'm Seemal Tausif
+I'm a Master's student in Computer Science at the University of Waterloo, focusing on systems security, AI safety, and software engineering. My research spans two labs (Cryptography, Security, and Privacy (CrySP) Lab and the Software Analytics Group (SWAG) Lab) where I build static analysis pipelines, LLM-augmented security tools, and automated benchmarking infrastructure.
 At the National Research Council Canada, I design AI safety evaluation workflows for agentic LLM systems, building reproducible benchmarks and conducting adversarial stress-testing across model families and memory configurations.
 
 <!--👨‍💻 Check out my [Portfolio](https://cs.uwaterloo.ca/~hfaheem/) to explore my work -->
